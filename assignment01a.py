@@ -20,7 +20,6 @@ k = 'That waked the priest all shaven and shorn, '
 l = 'That kept the cock that crow"d in the morn, '
 m = 'This is the farmer sowing his corn, '
 
-poem = '''
 print(a + b[16:] + '\n' + '\n' + a + c[13:] + '\n' + b + '\n')
 print(f"{a}rat,\n{c}\n{b}\n")
 print(f"{a}cat,\n{d}\n{c}\n{b}\n")
@@ -31,6 +30,8 @@ print(f"{a}{j[17:]}\n{i}\n{h}\n{f}\n{e}\n{d}\n{c}\n{b}\n")
 print(f"{a}{k[15:]}\n{j}\n{i}\n{h}\n{f}\n{e}\n{d}\n{c}\n{b}\n")
 print(f"{a}{l[14:]}\n{k}\n{j}\n{i}\n{h}\n{f}\n{e}\n{d}\n{c}\n{b}\n")
 print(f"{m}\n{l}\n{k}\n{j}\n{i}\n{h}\n{f}\n{e}\n{d}\n{c}\n{b}\n")
+
+'''
 This is the house that Jack built.
 
 This is the malt 
@@ -109,4 +110,4 @@ That ate the malt
 That lay in the house that Jack built.
 '''
 
-print(poem)
+
